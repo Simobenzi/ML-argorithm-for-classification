@@ -7,7 +7,7 @@
 **In this code you'll find**:
 1) **Exploratory Data Analysis**, also with Sweetviz and y-pandas profiling
 2) **Data Cleaning and Feature engineering**
-3) **Nested vs Stratified Cross Validation**
+3) **Nested vs Stratified K-fold Cross Validation**
 4) **GridSearch vs Optuna** for Hyperparameter tuning/optimization
 5) **Models**
    - 5a) ***Lasso Logistic Regression***
