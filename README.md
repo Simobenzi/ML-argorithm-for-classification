@@ -16,7 +16,7 @@
    - 5d) ***Gradient Boosting***
    - 5e) ***XGBOOST***
    - 5f) ***CATBOOST***
-6) **Shap vs Lime**
+6) **Shap vs Lime** for model explainability and features importance
 7) **Writing efficient code: Pipeline**
 <br>
 
