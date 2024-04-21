@@ -2,7 +2,7 @@
 
 **The Goal**: In this project, you will take the role of a data scientist in an insurance company. Your task is to build a machine learning model able to predict the severity of a crash, that is useful to embed into the pricing of an insurance policy.
 
-***The Goal in a nutshell***: Binary Classification, <span style="color:green">0 = Low Intensity Crash</span>  whereas <span style="color:red"> = High intensity Crash.</span>1
+***The Goal in a nutshell***: Binary Classification, <span style="color:green"> 0 = Low Intensity Crash </span>  whereas <span style="color:red"> 1 = High intensity Crash.</span>
 
 **In this code you'll find**:
 1) **Exploratory Data Analysis**, also with Sweetviz and y-pandas profiling
