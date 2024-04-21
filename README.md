@@ -1,8 +1,8 @@
-This is my project for the ML exam.
+**This is my project for the ML exam.**
 
-The Goal: In this project, you will take the role of a data scientist in an insurance company. Your task is to build a machine learning model able to predict the severity of a crash, that is useful to embed into the pricing of an insurance policy.
+**The Goal**: In this project, you will take the role of a data scientist in an insurance company. Your task is to build a machine learning model able to predict the severity of a crash, that is useful to embed into the pricing of an insurance policy.
 
-The Goal in a nutshell: Binary Classification, 0 = Low Intensity Crash whereas 1 = High intensity Crash.
+***The Goal in a nutshell***: Binary Classification, 0 = Low Intensity Crash whereas 1 = High intensity Crash.
 
 **In this code you'll find**:
 1) **Exploratory Data Analysis**, also with Sweetviz and y-pandas profiling
