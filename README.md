@@ -18,3 +18,8 @@
    - 5f) ***CATBOOST***
 6) **Shap vs Lime**
 7) **Writing efficient code: Pipeline**
+<br>
+
+**Long story Short:** Picking the best model is a tough task and requires a thoroughly examination of hyperparameter tuning/optimization, model assumptions, data structure and data prepocessing, evaluation of generalized metrics and much more. That is may not has been carried out extensively and in NOT soat manner in this project, therefore final conclusion are always relative. Yet, the best model, that maximize ***recall***, is **CATBOOST**. 
+The finding is underpinned by the distribution plot of the prediction of each model, Confusion matrices, Overfitting assessment and the fact that the majority of features were categorical.
+
